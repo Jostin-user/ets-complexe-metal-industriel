@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://ets-complexe-metal-industriel-nsbp.vercel.app/sitemap.xml
