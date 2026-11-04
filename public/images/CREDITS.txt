@@ -1,0 +1,16 @@
+Crédits des images téléchargées et utilisées dans le site
+
+Images Unsplash :
+- service-fabrication.jpg : https://unsplash.com/photos/photo-1504917595217-d4dc5ebe6122
+- service-maintenance.jpg : https://unsplash.com/photos/photo-1581092918056-0c4c3acd3789
+- service-formation.jpg : https://unsplash.com/photos/photo-1581092160562-40aa08e78837
+- about-workshop.jpg : https://unsplash.com/photos/photo-1581092160607-ee22621dd758
+
+Moteur fourni par le client :
+- hero-rebobinage.png
+- service-rebobinage.png
+
+Image Wikimedia Commons :
+- service-installation.jpg
+  Source : https://commons.wikimedia.org/wiki/File:ElectricMotorsWorkshop.JPG
+  Licence : vérifier la fiche source avant publication et conserver l’attribution requise.
